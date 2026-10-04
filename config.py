@@ -4,7 +4,7 @@ from pathlib import Path
 
 APP_NAME = "Prunely"
 
-MODEL_NAME = "openai/gpt-oss-120b"
+MODEL_NAME = "openai/openai/gpt-oss-120b"
 
 SOURCE_SHEET_ID = (
     "1qNU_LzN4mV9hZbEY9rxKzZbpm2QmPWf9"
