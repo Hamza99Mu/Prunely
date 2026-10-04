@@ -4,7 +4,6 @@ from config import MODEL_NAME, get_groq_api_key
 
 
 def build_llm() -> LLM:
-
     return LLM(
         model=MODEL_NAME,
         custom_openai=True,
